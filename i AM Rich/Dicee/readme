@@ -1,0 +1,13 @@
+Learning the ios app development from udemy 
+
+ 
+This is the rolling dice application 
+
+
+things used to develop this application is 
+
+UIImage to insert the dice image 
+
+array : to declare the different images of dice 
+
+used random function to get random images when roll button is pressed 
